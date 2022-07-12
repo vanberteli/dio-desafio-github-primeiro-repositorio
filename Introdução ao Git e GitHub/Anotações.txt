@@ -1,0 +1,14 @@
+Git - Software de Controle de Versão (VCS)
+
+Linka para download Git: https://git-scm.com/downloads
+
+Git Bash é um terminal extendido para otimizar o uso do Git.
+
+- repositórios são as pastas onde colocamos os projetos
+- repositório local: Git
+- repositório remoto: GitHub
+- commit: atualizar repositório
+- issues: é um problema, uma questão
+- git init: cria pasta .git
+- git clone: clonar repositório do GitHub
+
